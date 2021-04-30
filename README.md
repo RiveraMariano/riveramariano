@@ -23,21 +23,16 @@ const aboutMe = {
 ```
 <!-- FIN EXTRACTO DE CODIGO -->
 
-## Spotify Playing 🎧
 
-
-[<img src="https://spotify-now-playing.satyu.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/djehel041cfyz8fyrsqpnoftn)
-
-<br><br>
 
 <!-- MIS ESTADÍSTICAS -->
-
 <div align="center">
+   
+## Statistics
 
 [![itsbeenalongday's github stats](https://github-readme-stats.vercel.app/api?username=RiveraMariano&show_icons=true&line_height=21&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)<br/>
 
 </div>
-
 <!-- FIN MIS ESTADÍSTICAS -->
 
 
