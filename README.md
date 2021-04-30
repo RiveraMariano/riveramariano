@@ -25,7 +25,6 @@ const aboutMe = {
 <!-- FIN EXTRACTO DE CODIGO -->
 
 <!-- MIS ESTADÍSTICAS -->
-<h2 align="center">Spicy Stats :mortar_board:</h2>
 <br>
 <p align="center">
 <img align="center" width="400px" height="auto" src="https://github-readme-stats.vercel.app/api?username=riveramariano&&show_icons=true&theme=merko&count_private=true&include_all_commits=true" alt="My Github Stats">
@@ -36,7 +35,6 @@ const aboutMe = {
 <!-- FOOTER --!>
 <br>
 <!-- INFORMACIÓN DE CONTACTO -->
-<h2 align="center">Contact Info</h2>
       <div align="center">
          <a href="https://twitter.com/mariano_riverac">
          <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Twitter_black.png" width="32" height="32"/>
