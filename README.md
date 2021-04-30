@@ -56,13 +56,12 @@ const aboutMe = {
 
 <!-- MIS ESTADÍSTICAS -->
 <div align="center">
-   
 ## Spicy Stats :mortar_board:
 <br>
-
-![RiveraMariano Training](https://github-readme-stats.vercel.app/api?username=RiveraMariano&show_icons=true&line_height=21&show_icons=true&theme=merko)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riveramariano&theme=merko" />
-
+<p align="center">
+<img align="center" width="420px" height="auto" src="https://github-readme-stats.vercel.app/api?username=riveramariano&&show_icons=true&theme=merko&count_private=true&include_all_commits=true" alt="My Github Stats">
+<img align="center" width="415px" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riveramariano&layout=compact&theme=merko" alt="My Github Stats">
+</p>
 </div>
 <!-- FIN MIS ESTADÍSTICAS -->
 
