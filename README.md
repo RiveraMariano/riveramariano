@@ -1,8 +1,8 @@
 ### Welcome new one 👋
 
-<div style="margin-top: 200px; display: block;">
-   <img align='right' src="https://github.com/RiveraMariano/riveramariano/blob/main/horde.png" width="200px" height="auto">
-</div>
+
+<img align='right' src="https://github.com/RiveraMariano/riveramariano/blob/main/horde.png" width="200px" height="auto">
+
 
 <!-- EXTRACTO DE CODIGO -->
 ```javascript
