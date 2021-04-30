@@ -1,7 +1,7 @@
 ### Welcome new one 👋
 
 
-<img align='right' src="https://github.com/RiveraMariano/riveramariano/blob/main/horde.png" width="220px" height="auto">
+<img align='right' src="https://github.com/RiveraMariano/riveramariano/blob/main/horde.png" width="200px" height="auto">
 
 
 <!-- EXTRACTO DE CODIGO -->
