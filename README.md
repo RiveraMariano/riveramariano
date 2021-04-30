@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<!-- EXTRACTO DE CODIGO -->
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
@@ -20,18 +21,23 @@ const aboutMe = {
    challenge: "I'm working towards being able to speak French.",
 };
 ```
+<!-- FIN EXTRACTO DE CODIGO -->
 
-<!--
-**RiveraMariano/riveramariano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Spotify Playing 🎧
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img src="https://spotify-now-playing.satyu.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/djehel041cfyz8fyrsqpnoftn)
+
+<br><br>
+
+<!-- MIS ESTADÍSTICAS -->
+
+<div align="center">
+ 
+[![itsbeenalongday's github stats](https://github-readme-stats.vercel.app/api?username=itsbeenalongday&show_icons=true&line_height=21&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)<br/>
+
+</div>
+
+<!-- FIN MIS ESTADÍSTICAS -->
+
+
