@@ -60,8 +60,9 @@ const aboutMe = {
 ## Spicy Stats :mortar_board:
 <br>
 
-[![RiveraMariano Training](https://github-readme-stats.vercel.app/api?username=RiveraMariano&show_icons=true&line_height=21&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)<br/>
+![RiveraMariano Training](https://github-readme-stats.vercel.app/api?username=RiveraMariano&show_icons=true&line_height=21&show_icons=true&theme=merko)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riveramariano&theme=merko" />
+
 </div>
 <!-- FIN MIS ESTADÍSTICAS -->
 
