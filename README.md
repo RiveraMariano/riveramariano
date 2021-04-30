@@ -3,7 +3,7 @@
 <!-- EXTRACTO DE CODIGO -->
 ```javascript
 const aboutMe = {
-   pronouns: "he" | "him",
+   description: "Anime/Videogames lover",
    code: [Javascript, HTML, CSS, Java, CSharp],
    technologies: {
       frontEnd: {
@@ -19,6 +19,7 @@ const aboutMe = {
    },
    currentOccupation: ["Last year student, open for job opportunities"],
    challenge: "I'm working towards being able to speak French.",
+   funFact: "There are two ways to write error-free programs; only the third one works (Really funny tho)"
 };
 ```
 <!-- FIN EXTRACTO DE CODIGO -->
