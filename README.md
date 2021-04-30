@@ -24,38 +24,7 @@ const aboutMe = {
 ```
 <!-- FIN EXTRACTO DE CODIGO -->
 
-<!-- INFORMACIÓN DE CONTACTO -->
-<h2 align="center">Contact me on</h2>
-      <div align="center">
-         <a href="https://twitter.com/madebygaurav">
-         <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Twitter_black.png" width="32" height="32"/>
-         </a>
-         <a href="https://www.linkedin.com/in/gauravghongde">
-         <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/LinkedIN_black.png" width="32" height="32"/>
-         </a>
-         <a href="https://www.instagram.com/madebygaurav">
-         <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Instagram_black.png" width="32" height="32"/>
-         </a>
-         <a href="https://www.behance.net/gauravghongde">
-         <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Behance_black.png" width="32" height="32"/>
-         </a>
-         <a href="mailto:7gaurav.ghongde@gmail.com">
-         <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Gmail_black.png" width="32" height="32"/>
-         </a>
-         <a href="https://telegram.me/gsg7397">
-         <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Telegram_black.png" width="32" height="32"/>
-         </a>
-         <a href="https://discord.gg/2RHSUwy">
-         <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Discord_black.png" width="32" height="32"/>
-         </a>
-         <a href="https://play.google.com/store/apps/dev?id=7300960281868524728">
-         <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/GooglePlay_black.png" width="32" height="32"/>
-         </a>
-      </div>
-<!-- FIN INFORMACIÓN DE CONTACTO -->
-
 <!-- MIS ESTADÍSTICAS -->
-
 <h2 align="center">Spicy Stats :mortar_board:</h2>
 <br>
 <p align="center">
@@ -69,4 +38,23 @@ const aboutMe = {
 
 <!-- FOOTER --!>
 <br>
-<img src="https://imgur.com/rilHVxA.png"/>
+<!-- INFORMACIÓN DE CONTACTO -->
+<h2 align="center">Contact me on</h2>
+      <div align="center">
+         <a href="https://twitter.com/madebygaurav">
+         <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Twitter_black.png" width="32" height="32"/>
+         </a>
+         <a href="https://www.linkedin.com/in/gauravghongde">
+         <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/LinkedIN_black.png" width="32" height="32"/>
+         </a>
+         <a href="https://www.instagram.com/madebygaurav">
+         <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Instagram_black.png" width="32" height="32"/>
+         </a>
+         <a href="mailto:7gaurav.ghongde@gmail.com">
+         <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Gmail_black.png" width="32" height="32"/>
+         </a>
+         <a href="https://discord.gg/2RHSUwy">
+         <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Discord_black.png" width="32" height="32"/>
+         </a>
+      </div>
+<!-- FIN INFORMACIÓN DE CONTACTO -->
