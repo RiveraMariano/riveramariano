@@ -35,6 +35,7 @@ const aboutMe = {
 <!-- FOOTER --!>
 <br>
 <!-- INFORMACIÓN DE CONTACTO -->
+<h6></h6>
       <div align="center">
          <a href="https://twitter.com/mariano_riverac">
          <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Twitter_black.png" width="32" height="32"/>
