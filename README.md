@@ -17,7 +17,7 @@ const aboutMe = {
       },
       databases: ["MongoDB", "mySQL", "SQLServer"]
    },
-   currentOccupation: ["last year student, open for job opportunities"],
+   currentOccupation: ["Last year student, open for job opportunities"],
    challenge: "I'm working towards being able to speak French.",
 };
 ```
@@ -28,7 +28,8 @@ const aboutMe = {
 <!-- MIS ESTADÍSTICAS -->
 <div align="center">
    
-## Statistics
+### Statistics about my profile
+<br>
 
 [![itsbeenalongday's github stats](https://github-readme-stats.vercel.app/api?username=RiveraMariano&show_icons=true&line_height=21&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)<br/>
 
