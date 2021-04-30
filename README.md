@@ -1,6 +1,6 @@
 ### Welcome new one 👋
 
-<img align='right' src="https://github.com/RiveraMariano/riveramariano/blob/main/robo.gif" width="230">
+<img align='right' src="https://github.com/RiveraMariano/riveramariano/blob/main/horde.png" width="230px" height="auto">
 
 <!-- EXTRACTO DE CODIGO -->
 ```javascript
