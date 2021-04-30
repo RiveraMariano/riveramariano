@@ -20,8 +20,8 @@ const aboutMe = {
       databases: ["MongoDB", "mySQL", "SQLServer"]
    },
    currentOccupation: ["Last year student, open for job opportunities"],
-   challenge: "I'm working towards being able to speak French.",
-   funFact: "There are two ways to write error-free programs; only the third one works (Really funny tho)"
+   challenge: "I'm working towards being able to speak French",
+   funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
 <!-- FIN EXTRACTO DE CODIGO -->
