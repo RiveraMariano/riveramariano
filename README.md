@@ -28,7 +28,7 @@ const aboutMe = {
 <!-- MIS ESTADÍSTICAS -->
 <div align="center">
    
-## My Training Statistics
+## Spicy Stats :mortar_board:
 <br>
 
 [![itsbeenalongday's github stats](https://github-readme-stats.vercel.app/api?username=RiveraMariano&show_icons=true&line_height=21&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)<br/>
