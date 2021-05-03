@@ -4,17 +4,17 @@
 
 <!-- TECH STACK -->
 <div align="center">
-   <img src="https://github.com/RiveraMariano/riveramariano/blob/main/tech-stack/js-logo.png" width="32" height="32"/>
-   <img src="https://github.com/RiveraMariano/riveramariano/blob/main/tech-stack/html-logo.png" width="32" height="32"/>
-   <img src="https://github.com/RiveraMariano/riveramariano/blob/main/tech-stack/css-logo.png" width="32" height="32"/>
-   <img src="https://github.com/RiveraMariano/riveramariano/blob/main/tech-stack/react-logo.png" width="32" height="32"/>
-   <img src="https://github.com/RiveraMariano/riveramariano/blob/main/tech-stack/electron-logo.png" width="32" height="32"/>
-   <img src="https://github.com/RiveraMariano/riveramariano/blob/main/tech-stack/firebase-logo.png" width="32" height="32"/>
-   <img src="https://github.com/RiveraMariano/riveramariano/blob/main/tech-stack/java-logo.png" width="32" height="32"/>
-   <img src="https://github.com/RiveraMariano/riveramariano/blob/main/tech-stack/mongo-logo.png" width="32" height="32"/>
-   <img src="https://github.com/RiveraMariano/riveramariano/blob/main/tech-stack/mysql-logo.png" width="32" height="32"/>
-   <img src="https://github.com/RiveraMariano/riveramariano/blob/main/tech-stack/oracle-logo.png" width="32" height="32"/>
-   <img src="https://github.com/RiveraMariano/riveramariano/blob/main/tech-stack/sql-logo.png" width="32" height="32"/>
+   <img src="https://github.com/RiveraMariano/riveramariano/blob/main/tech-stack/js-logo.png" width="40" height="40" />
+   <img src="https://github.com/RiveraMariano/riveramariano/blob/main/tech-stack/html-logo.png" width="40" height="40" />
+   <img src="https://github.com/RiveraMariano/riveramariano/blob/main/tech-stack/css-logo.png" width="40" height="40" />
+   <img src="https://github.com/RiveraMariano/riveramariano/blob/main/tech-stack/react-logo.png" width="40" height="40" />
+   <img src="https://github.com/RiveraMariano/riveramariano/blob/main/tech-stack/electron-logo.png" width="40" height="40" />
+   <img src="https://github.com/RiveraMariano/riveramariano/blob/main/tech-stack/firebase-logo.png" width="40" height="40" />
+   <img src="https://github.com/RiveraMariano/riveramariano/blob/main/tech-stack/java-logo.png" width="40" height="40" />
+   <img src="https://github.com/RiveraMariano/riveramariano/blob/main/tech-stack/mongo2-logo.png" width="40" height="40" />
+   <img src="https://github.com/RiveraMariano/riveramariano/blob/main/tech-stack/mysql-logo.png" width="40" height="40" />
+   <img src="https://github.com/RiveraMariano/riveramariano/blob/main/tech-stack/oracle-logo.png" width="40" height="40" />
+   <img src="https://github.com/RiveraMariano/riveramariano/blob/main/tech-stack/sql-logo.png" width="40" height="40" />
 </div>
 <!-- FIN TECH STACK -->
 
