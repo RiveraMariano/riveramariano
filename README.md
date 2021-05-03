@@ -1,6 +1,8 @@
-### Hi This is My Bio 👋
+<div align="center">
+   <h1>Welcome to Mariano's Bio 👋</h1> 
+</div>
 
-<!-- <img align='right' src="https://github.com/RiveraMariano/riveramariano/blob/main/horde.png" width="200px" height="auto"> -->
+<img src="https://github.com/RiveraMariano/riveramariano/blob/main/js-banner.gif">
 
 <!-- TECH STACK -->
 <div align="center">
