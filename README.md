@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>Welcome to Mariano's Bio 👋</h1> 
+   <h3>WELCOME TO MARIANO'S BIO 👋</h3> 
 </div>
 
 <div align="center">
