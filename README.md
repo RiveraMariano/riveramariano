@@ -2,7 +2,9 @@
    <h1>Welcome to Mariano's Bio 👋</h1> 
 </div>
 
-<img src="https://github.com/RiveraMariano/riveramariano/blob/main/js-banner.gif">
+<div align="center">
+   <img src="https://github.com/RiveraMariano/riveramariano/blob/main/chrono-trigger.gif" width="600" height="auto">
+</div>
 
 <!-- TECH STACK -->
 <div align="center">
