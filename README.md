@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-   <img src="https://github.com/RiveraMariano/riveramariano/blob/main/chrono-trigger.gif" width="700" height="auto">
+   <img src="https://github.com/RiveraMariano/riveramariano/blob/main/chrono-trigger.gif" width="650">
 </div>
 
 <!-- TECH STACK -->
