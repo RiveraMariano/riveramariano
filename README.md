@@ -15,7 +15,7 @@
    <img src="https://github.com/RiveraMariano/riveramariano/blob/main/tech-stack/java-logo.png" alt="Java" width="40" height="40" />
    <img src="https://github.com/RiveraMariano/riveramariano/blob/main/tech-stack/firebase-logo.png" alt="Google Firebase" width="40" height="40" />
    <img src="https://github.com/RiveraMariano/riveramariano/blob/main/tech-stack/sql-logo.png" alt="SQL Server" width="40" height="40" />
-   <img src="https://github.com/RiveraMariano/riveramariano/blob/main/tech-stack/mysql-logo.png" alt="MySQL" width="40" height="40" />
+   <img src="https://github.com/RiveraMariano/riveramariano/blob/main/tech-stack/mongodb-logo.png" alt="MongoDB" width="40" height="40" />
    <img src="https://github.com/RiveraMariano/riveramariano/blob/main/tech-stack/oracle-logo.png" alt="Oracle" width="40" height="40" />
 </div>
 <!-- FIN TECH STACK -->
