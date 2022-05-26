@@ -1,5 +1,5 @@
 <div align="center">
-   <h3>TAKE A BREAK, MARIANO'S BIO :space_invader:</h3> 
+   <h3><span>---------</span> TAKE A BREAK, MARIANO'S BIO <span>---------</span></h3> 
 </div>
 
 <div align="center">
@@ -8,18 +8,18 @@
 
 <!-- TECH STACK -->
 <div align="center">
-   <h3>TECH STACK</h3>
-   <img src="https://github.com/RiveraMariano/riveramariano/blob/main/tech-stack/node-logo.png" alt="Node.js" width="35" height="40" />
-   
-   <img src="https://github.com/RiveraMariano/riveramariano/blob/main/tech-stack/angular-logo.png" alt="Angular" width="45" height="45" />
-   
-   <img src="https://github.com/RiveraMariano/riveramariano/blob/main/tech-stack/react-logo.png" alt="React.js" width="43" height="37" />
+   <h3><span>---------</span> TECH STACK <span>---------</span></h3>
    
    
+   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="50" height="50" />&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="50" height="50" />&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node" alt="Node" width="50" height="50" />&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="50" height="50" />&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="G. Cloud" alt="G. Cloud" width="50" height="50" />&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="50" height="50" />&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="50" height="50" />&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width="50" height="50" />&nbsp;
    
-   <img src="https://github.com/RiveraMariano/riveramariano/blob/main/tech-stack/mongodb-logo.png" alt="MongoDB" width="40" height="40" />
-   <img src="https://github.com/RiveraMariano/riveramariano/blob/main/tech-stack/firebase-logo.png" alt="Google Firebase" width="40" height="40" />
-   <img src="https://github.com/RiveraMariano/riveramariano/blob/main/tech-stack/sql-logo.png" alt="SQL Server" width="40" height="40" />
-   <img src="https://github.com/RiveraMariano/riveramariano/blob/main/tech-stack/mysql-logo.png" alt="SQL Server" width="40" height="40" />
+   
 </div>
 <!-- FIN TECH STACK -->
